@@ -1,0 +1,3 @@
+[submodule "pandasTutorial/pandasTutorial/2016-pydata-carolinas-pandas"]
+	path = pandasTutorial/pandasTutorial/2016-pydata-carolinas-pandas
+	url = https://github.com/chendaniely/2016-pydata-carolinas-pandas.git
